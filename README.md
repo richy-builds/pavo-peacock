@@ -13,7 +13,6 @@ npm ci
 npm run dev
 ```
 
-Open the local URL printed by Vite. The current session uses `http://127.0.0.1:5174/` because port 5173 was occupied.
 
 ```sh
 npm run build
