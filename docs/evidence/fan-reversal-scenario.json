@@ -1,0 +1,7 @@
+{
+  "scenario": "reversal",
+  "iteration": 34,
+  "durationMs": 30948,
+  "description": "Fan target alternated between 0 and 1 every 900ms; reversals occur before settling.",
+  "limitations": "Headless Chrome frame scheduling, not GPU timing or headed confirmation. Initial snapshot; geometry tier remains low."
+}

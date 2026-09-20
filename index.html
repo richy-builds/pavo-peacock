@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#03090c" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="description" content="A study in light, structure, and iridescence. A procedural peacock feather in three dimensions." />
+    <title>PAVO — Feather study</title>
+  </head>
+  <body>
+    <main id="app">
+      <div id="scene" role="img" aria-label="Interactive three-dimensional peacock feather. Drag to orbit and scroll to zoom. Camera presets are available below."></div>
+      <header class="masthead"><span class="wordmark">PAVO<span class="mark">✳</span></span><span class="edition">PROCEDURAL STUDY <i></i> PAVO</span></header>
+      <div class="view-label" aria-live="polite"><span id="view-number">01 / 01</span><span id="view-caption">A single feather</span></div>
+      <p class="hint">Drag to explore <span>·</span> Scroll to zoom · Double-click background to reset</p>
+      <footer class="controls" aria-label="Feather study controls">
+        <div class="segmented" aria-label="Study mode"><button type="button" id="single" aria-pressed="true">FEATHER</button><button type="button" id="field" aria-pressed="false">240 FEATHERS</button><button type="button" id="fan" aria-pressed="false">FAN</button></div>
+        <div class="divider"></div>
+        <label class="light-control" for="light">LIGHT <input id="light" type="range" min="-180" max="180" value="25" aria-label="Light angle" /></label>
+        <div class="divider"></div>
+        <button type="button" id="detail">DETAIL</button><button type="button" id="oblique">OBLIQUE</button><button type="button" id="side">SIDE</button><button type="button" id="reset">RESET</button>
+        <button type="button" id="inspect" aria-expanded="false" aria-controls="diagnostics">INSPECT</button>
+      </footer>
+      <div id="fan-controls" hidden>
+        <label for="fan-amount">FAN OPENING <output id="fan-value" for="fan-amount">100%</output></label>
+        <input id="fan-amount" type="range" min="0" max="1" step="0.01" value="1" aria-label="Fan opening" />
+        <button id="toggle-fan" type="button">OPEN / CLOSE · F</button>
+        <div class="life-actions" aria-label="Peacock gestures"><button id="shake" type="button">SHAKE</button><button id="display" type="button">DISPLAY</button><button id="bow" type="button">BOW</button><button id="rest" type="button">REST</button></div>
+        <p class="touch-hint">Brush feathers · Tap an eye</p>
+      </div>
+      <section id="diagnostics" hidden aria-label="Rendering diagnostics">
+        <div class="panel-heading"><h2>Rendering study</h2><button type="button" id="close-inspect" aria-label="Close diagnostics">×</button></div>
+        <dl id="metrics"></dl>
+        <label class="motion-control"><input type="checkbox" id="motion" /> Ambient motion</label>
+        <button type="button" id="benchmark">RECORD 30 SECONDS</button>
+        <p id="benchmark-status" role="status">Measures browser frame intervals, not GPU time.</p>
+        <button type="button" id="download" hidden>DOWNLOAD REPORT</button>
+      </section>
+      <p id="error" role="alert" hidden></p>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "minimumY": 0.9132034068010245,
+  "phases": 41,
+  "offsetExtremes": [
+    -0.045,
+    0.045
+  ],
+  "note": "Distance-tier vertices, shader width .48, both extremal offsets and secondary fold lag. Sampled floor clearance, not feather/body collision solving."
+}

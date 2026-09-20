@@ -1,0 +1,7 @@
+{
+  "scenario": "orbit",
+  "iteration": 33,
+  "durationMs": 30340,
+  "description": "Continuous alternating 50px horizontal camera drags, 45 steps per drag.",
+  "limitations": "Headless Chrome frame scheduling, not GPU timing or headed confirmation. Initial snapshot; geometry tier remains low."
+}

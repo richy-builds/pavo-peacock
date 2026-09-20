@@ -1,0 +1,8 @@
+{
+  "cycles": 31,
+  "durationMs": 30270,
+  "clicks": 31,
+  "acknowledgments": 31,
+  "description": "Alternate fan targets .6/1, retrigger phased shake, click currently projected feather eye, brush 30px, and click breast every cycle. All mutations use visible controls or pointer events. Only a single eye projection is read per cycle; no diagnostic ray sweep during timing.",
+  "limitations": "No walking (milestone 5), no camera motion in this combined scenario. Headless frame scheduling, not GPU timings."
+}

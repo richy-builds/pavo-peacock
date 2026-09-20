@@ -1,0 +1,434 @@
+[
+  {
+    "amount": 0.3,
+    "angle": 0,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0005998859420017766
+  },
+  {
+    "amount": 0.3,
+    "angle": 0,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0008703197604749136
+  },
+  {
+    "amount": 0.3,
+    "angle": 0,
+    "offset": 0,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.3,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0005998887610099146
+  },
+  {
+    "amount": 0.3,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0008703241369154568
+  },
+  {
+    "amount": 0.3,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.3,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0007530599793899029
+  },
+  {
+    "amount": 0.3,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0013866825084418721
+  },
+  {
+    "amount": 0.3,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.3,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0007530581313837104
+  },
+  {
+    "amount": 0.3,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0013866849945767257
+  },
+  {
+    "amount": 0.3,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.3,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0016360960260177748
+  },
+  {
+    "amount": 0.3,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.002249106232348197
+  },
+  {
+    "amount": 0.3,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0.4,
+    "hit": true,
+    "error": 0.000575503059929261
+  },
+  {
+    "amount": 0.3,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0016360758392863772
+  },
+  {
+    "amount": 0.3,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0022491087016023315
+  },
+  {
+    "amount": 0.3,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": true,
+    "error": 0.0005754987248485222
+  },
+  {
+    "amount": 0.6,
+    "angle": 0,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0005998860930764849
+  },
+  {
+    "amount": 0.6,
+    "angle": 0,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.000870320836781957
+  },
+  {
+    "amount": 0.6,
+    "angle": 0,
+    "offset": 0,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.6,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0005998889301341848
+  },
+  {
+    "amount": 0.6,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0008703243348877621
+  },
+  {
+    "amount": 0.6,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.6,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0007530576935321776
+  },
+  {
+    "amount": 0.6,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0013866823017609775
+  },
+  {
+    "amount": 0.6,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.6,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0007530599842366925
+  },
+  {
+    "amount": 0.6,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.001386685100127849
+  },
+  {
+    "amount": 0.6,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 0.6,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.00163608533683135
+  },
+  {
+    "amount": 0.6,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.002249105479377178
+  },
+  {
+    "amount": 0.6,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0.4,
+    "hit": true,
+    "error": 0.0005755001045457675
+  },
+  {
+    "amount": 0.6,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.001636086750179011
+  },
+  {
+    "amount": 0.6,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0022491093381136196
+  },
+  {
+    "amount": 0.6,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": true,
+    "error": 0.0005755020808688727
+  },
+  {
+    "amount": 1,
+    "angle": 0,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0005998901746719909
+  },
+  {
+    "amount": 1,
+    "angle": 0,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0008703278936019743
+  },
+  {
+    "amount": 1,
+    "angle": 0,
+    "offset": 0,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 1,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0005998876691206689
+  },
+  {
+    "amount": 1,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0008703180431135493
+  },
+  {
+    "amount": 1,
+    "angle": 0,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 1,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0007530586163913
+  },
+  {
+    "amount": 1,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0013866850163877231
+  },
+  {
+    "amount": 1,
+    "angle": 0.65,
+    "offset": 0,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 1,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0007530600523910636
+  },
+  {
+    "amount": 1,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0013866835338278705
+  },
+  {
+    "amount": 1,
+    "angle": 0.65,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": false,
+    "error": null
+  },
+  {
+    "amount": 1,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0,
+    "hit": true,
+    "error": 0.0016360853058747793
+  },
+  {
+    "amount": 1,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0022491091588152656
+  },
+  {
+    "amount": 1,
+    "angle": 1.2,
+    "offset": 0,
+    "x": 0.4,
+    "hit": true,
+    "error": 0.0005755017348736402
+  },
+  {
+    "amount": 1,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0,
+    "hit": true,
+    "error": 0.0016360877171273103
+  },
+  {
+    "amount": 1,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0.08,
+    "hit": true,
+    "error": 0.0022491072410382174
+  },
+  {
+    "amount": 1,
+    "angle": 1.2,
+    "offset": 0.03,
+    "x": 0.4,
+    "hit": true,
+    "error": 0.0005755015634365535
+  }
+]

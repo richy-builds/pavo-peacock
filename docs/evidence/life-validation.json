@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-06",
+  "build": "passed; existing chunk warning 596.87 kB / 152.28 kB gzip",
+  "checks": "16/16 full suite + 1/1 added gesture visual check; 17 distinct checks",
+  "capturePolicy": "No application-source edits during browser screenshots or benchmarks. Four benchmarks sequential, one worker, separate warm-ups. Gesture sequence followed with unchanged application source.",
+  "sha256": {
+    "src/Benchmark.ts": "af867e4a0d5c48bf82b1ec9e55b11c4366bbdfdcbf10cdc4912d7187e7c1cb1e",
+    "src/FeatherStudy.ts": "42e9719b700263264e555c52d7b8323d7e4aa72a7c9c23bd55801c57872e687a",
+    "src/Hero.ts": "b321b937036eee220821fa5f4c2af928df7b88883fd0915a65e886651f7a486b",
+    "src/Life.ts": "30f748985066375ed327ecd1018d45ce8cad36bbeb24e3407202624f385215db",
+    "src/feather/fan.ts": "fd0feefb3d8bb05695d8b5784b5ad4a6aa1a3980f788445e76bbaaf8f5807910",
+    "src/feather/geometry.ts": "2cb106288935a103c98ba643a4c6e69f5317cba60321e103e6ffb011cf27f40b",
+    "src/feather/material.ts": "3c38394491e50370eac2a35ed56de90912ca1fc91c476e8e207faa4d3a2556f2",
+    "src/feather/picking.ts": "b8ce99388317adc9e8ba38c3b70782526a011aa49e6d5065b72fb775ac5343ab",
+    "src/main.ts": "4a7fa7740a2c95cd9eb691618cdcccd3b03a2f12364e43199061827750c1dd0c",
+    "src/style.css": "d92a0775093e139875fcc026cd0a38fa6810a0d94e2c8217b41e821f8a1983f0",
+    "index.html": "38fae24762d66e72c9c5209893d0e4885b064561b59e582d2b0197d2931dc8a7"
+  }
+}
